@@ -1,10 +1,8 @@
 {
-    "celingPrimer": [
+    "celingWork": [
         {
             "baseName": "грунтовка потолков",
-            "unit": "м.кв."
-        },
-        {
+            "unit": "м.кв.",
             "analogs": [
                 {
                     "companyName": "ИНВЕСТ-ГАРАНТ",
@@ -27,14 +25,10 @@
                     "URL": "https://remont-dmb.ru/price/prajs-list-na-uslugi-3/"
                 }
             ]
-        }
-    ],
-    "celingPrimerEndElements": [
-        {
-            "baseName": "грунтовка торцевых элементов потолка",
-            "unit": "м"
         },
         {
+            "baseName": "грунтовка торцевых элементов потолка",
+            "unit": "м",
             "analogs": [
                 {
                     "companyName": "Ремонт-отделка-м.ру",
