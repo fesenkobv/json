@@ -1,5 +1,5 @@
 {
-    "ceilingPrimer": [
+    "celingPrimer": [
         {
             "baseName": "грунтовка потолков",
             "unit": "м.кв."
@@ -29,7 +29,7 @@
             ]
         }
     ],
-    "ceilingPrimerEndElements": [
+    "celingPrimerEndElements": [
         {
             "baseName": "грунтовка торцевых элементов потолка",
             "unit": "м"
