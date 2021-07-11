@@ -1,0 +1,62 @@
+{
+    "ceilingPrimer": [
+        {
+            "baseName": "грунтовка потолков",
+            "unit": "м.кв."
+        },
+        {
+            "analogs": [
+                {
+                    "companyName": "ИНВЕСТ-ГАРАНТ",
+                    "priceName": "Грунтовка потолка по штукатурке в один слой",
+                    "URL": "http://investgarant.su/price/17"
+                },
+                {
+                    "companyName": "Оптимальное Строительство",
+                    "priceName": "Грунтовка потолков",
+                    "URL": "https://optimumbuilding.ru/remont-potolka"
+                },
+                {
+                    "companyName": "Сан Саныч",
+                    "priceName": "Обработка потолка грунтовкой глубокого проникновения",
+                    "URL": "https://sanych-msk.ru/services/ceiling/price/"
+                },
+                {
+                    "companyName": "ДМБ",
+                    "priceName": "Грунтовка потолков (один раз)",
+                    "URL": "https://remont-dmb.ru/price/prajs-list-na-uslugi-3/"
+                }
+            ]
+        }
+    ],
+    "ceilingPrimerEndElements": [
+        {
+            "baseName": "грунтовка торцевых элементов потолка",
+            "unit": "м"
+        },
+        {
+            "analogs": [
+                {
+                    "companyName": "Ремонт-отделка-м.ру",
+                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                    "URL": "http://www.remont-otdelka-m.ru/prays_list_potolki.php"
+                },
+                {
+                    "companyName": "RemontProfi",
+                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                    "URL": "https://www.remontprofi.ru/ceny-na-uslugi/otdelka-potolkov/"
+                },
+                {
+                    "companyName": "АКОНЕЛ",
+                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                    "URL": "https://akonel.ru/price/ceilings"
+                },
+                {
+                    "companyName": "ЛюксЭлитСтрой",
+                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                    "URL": "https://luxelitstroy.ru/price/edinichnye_ceny_potolky.php"
+                }
+            ]
+        }
+    ]
+}
