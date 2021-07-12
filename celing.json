@@ -3,6 +3,7 @@
         {
             "baseName": "грунтовка потолков",
             "unit": "м.кв.",
+            "workId": "ceilingPrimer",
             "analogs": [
                 {
                     "companyName": "ИНВЕСТ-ГАРАНТ",
