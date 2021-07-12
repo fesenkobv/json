@@ -55,7 +55,7 @@
             ]
         },
         {
-            "baseName": "грунтовка потолко бетоноконтактом",
+            "baseName": "грунтовка потолков бетоноконтактом",
             "unit": "м.кв.",
             "workId": "primingCeilingConcreteContact",
             "analogs": [
