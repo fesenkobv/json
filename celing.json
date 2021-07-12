@@ -30,6 +30,7 @@
         {
             "baseName": "грунтовка торцевых элементов потолка",
             "unit": "м",
+            "workId": "primingEndElementsCeiling",
             "analogs": [
                 {
                     "companyName": "Ремонт-отделка-м.ру",
