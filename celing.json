@@ -1,83 +1,91 @@
 {
     "celingWork": [
         {
-            "baseName": "грунтовка потолков",
-            "unit": "м.кв.",
-            "workId": "ceilingPrimer",
-            "analogs": [
+            "ceilingPrimer": [
                 {
-                    "companyName": "ИНВЕСТ-ГАРАНТ",
-                    "priceName": "Грунтовка потолка по штукатурке в один слой",
-                    "URL": "http://investgarant.su/price/17"
-                },
-                {
-                    "companyName": "Оптимальное Строительство",
-                    "priceName": "Грунтовка потолков",
-                    "URL": "https://optimumbuilding.ru/remont-potolka"
-                },
-                {
-                    "companyName": "Сан Саныч",
-                    "priceName": "Обработка потолка грунтовкой глубокого проникновения",
-                    "URL": "https://sanych-msk.ru/services/ceiling/price/"
-                },
-                {
-                    "companyName": "ДМБ",
-                    "priceName": "Грунтовка потолков (один раз)",
-                    "URL": "https://remont-dmb.ru/price/prajs-list-na-uslugi-3/"
+                    "baseName": "грунтовка потолков",
+                    "unit": "м.кв.",
+                    "workId": "ceilingPrimer",
+                    "analogs": [
+                        {
+                            "companyName": "ИНВЕСТ-ГАРАНТ",
+                            "priceName": "Грунтовка потолка по штукатурке в один слой",
+                            "URL": "http://investgarant.su/price/17"
+                        },
+                        {
+                            "companyName": "Оптимальное Строительство",
+                            "priceName": "Грунтовка потолков",
+                            "URL": "https://optimumbuilding.ru/remont-potolka"
+                        },
+                        {
+                            "companyName": "Сан Саныч",
+                            "priceName": "Обработка потолка грунтовкой глубокого проникновения",
+                            "URL": "https://sanych-msk.ru/services/ceiling/price/"
+                        },
+                        {
+                            "companyName": "ДМБ",
+                            "priceName": "Грунтовка потолков (один раз)",
+                            "URL": "https://remont-dmb.ru/price/prajs-list-na-uslugi-3/"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
-            "baseName": "грунтовка торцевых элементов потолка",
-            "unit": "м",
-            "workId": "primingEndElementsCeiling",
-            "analogs": [
+            ],
+            "primingEndElementsCeiling": [
                 {
-                    "companyName": "Ремонт-отделка-м.ру",
-                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "http://www.remont-otdelka-m.ru/prays_list_potolki.php"
-                },
-                {
-                    "companyName": "RemontProfi",
-                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "https://www.remontprofi.ru/ceny-na-uslugi/otdelka-potolkov/"
-                },
-                {
-                    "companyName": "АКОНЕЛ",
-                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "https://akonel.ru/price/ceilings"
-                },
-                {
-                    "companyName": "ЛюксЭлитСтрой",
-                    "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "https://luxelitstroy.ru/price/edinichnye_ceny_potolky.php"
+                    "baseName": "грунтовка торцевых элементов потолка",
+                    "unit": "м",
+                    "workId": "primingEndElementsCeiling",
+                    "analogs": [
+                        {
+                            "companyName": "Ремонт-отделка-м.ру",
+                            "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                            "URL": "http://www.remont-otdelka-m.ru/prays_list_potolki.php"
+                        },
+                        {
+                            "companyName": "RemontProfi",
+                            "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                            "URL": "https://www.remontprofi.ru/ceny-na-uslugi/otdelka-potolkov/"
+                        },
+                        {
+                            "companyName": "АКОНЕЛ",
+                            "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                            "URL": "https://akonel.ru/price/ceilings"
+                        },
+                        {
+                            "companyName": "ЛюксЭлитСтрой",
+                            "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
+                            "URL": "https://luxelitstroy.ru/price/edinichnye_ceny_potolky.php"
+                        }
+                    ]
                 }
-            ]
-        },
-        {
-            "baseName": "грунтовка потолков бетоноконтактом",
-            "unit": "м.кв.",
-            "workId": "primingCeilingConcreteContact",
-            "analogs": [
+            ],
+            "primingCeilingConcreteContact": [
                 {
-                    "companyName": "Домашний Мастер",
-                    "priceName": "Грунтовка потолка бетоноконтактом (1 слой)",
-                    "URL": "https://domashniy-masterok.ru/price/prays-na-shtukaturno-malyarnye-raboty/"
-                },
-                {
-                    "companyName": "СпецДомаСтрой",
-                    "priceName": "Грунтовка потолков бетоноконтактом",
-                    "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty"
-                },
-                {
-                    "companyName": "Академия ремонта",
-                    "priceName": "Грунтовка потолков бетоноконтактом",
-                    "URL": "https://remakademiya.ru/ceny-na-remont"
-                },
-                {
-                    "companyName": "Овит-строй",
-                    "priceName": "Грунтовка потолка (Бетоноконтактом)",
-                    "URL": "https://ovit-stroy.ru/tseny-na-remont-kvartir/"
+                    "baseName": "грунтовка потолков бетоноконтактом",
+                    "unit": "м.кв.",
+                    "workId": "primingCeilingConcreteContact",
+                    "analogs": [
+                        {
+                            "companyName": "Домашний Мастер",
+                            "priceName": "Грунтовка потолка бетоноконтактом (1 слой)",
+                            "URL": "https://domashniy-masterok.ru/price/prays-na-shtukaturno-malyarnye-raboty/"
+                        },
+                        {
+                            "companyName": "СпецДомаСтрой",
+                            "priceName": "Грунтовка потолков бетоноконтактом",
+                            "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty"
+                        },
+                        {
+                            "companyName": "Академия ремонта",
+                            "priceName": "Грунтовка потолков бетоноконтактом",
+                            "URL": "https://remakademiya.ru/ceny-na-remont"
+                        },
+                        {
+                            "companyName": "Овит-строй",
+                            "priceName": "Грунтовка потолка (Бетоноконтактом)",
+                            "URL": "https://ovit-stroy.ru/tseny-na-remont-kvartir/"
+                        }
+                    ]
                 }
             ]
         }
