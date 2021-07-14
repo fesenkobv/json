@@ -85,5 +85,34 @@
                 }
             ]
         }
+    ],
+    "removingWallpaperСeiling": [
+        {
+            "baseName": "удаление обое с потолка",
+            "unit": "м.кв.",
+            "workId": "removingWallpaperСeiling",
+            "analogs": [
+                {
+                    "companyName": "Домашний Мастер",
+                    "priceName": "Удаление обоев (1 слой), шпаклевки с потолков",
+                    "URL": "https://domashniy-masterok.ru/price/prays-na-otdelochnye-raboty/"
+                },
+                {
+                    "companyName": "Мир ремонта",
+                    "priceName": "Демонтаж обоев с потолка",
+                    "URL": "https://mir-rem.ru/price/"
+                },
+                {
+                    "companyName": "Инсайд",
+                    "priceName": "Удаление обоев (1 слой), шпаклевки со стен",
+                    "URL": "https://www.remontstroyka.ru/tseny/prays-list-na-raboty.php"
+                },
+                {
+                    "companyName": "СпецДомаСтрой",
+                    "priceName": "Снятие обоев с потолков (1 слой)",
+                    "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty"
+                }
+            ]
+        }
     ]
 }
