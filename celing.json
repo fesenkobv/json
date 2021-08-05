@@ -8,22 +8,26 @@
                 {
                     "companyName": "ИНВЕСТ-ГАРАНТ",
                     "priceName": "Грунтовка потолка по штукатурке в один слой",
-                    "URL": "http://investgarant.su/price/17"
+                    "URL": "http://investgarant.su/price/17",
+                    "price": 20
                 },
                 {
                     "companyName": "Оптимальное Строительство",
                     "priceName": "Грунтовка потолков",
-                    "URL": "https://optimumbuilding.ru/remont-potolka"
+                    "URL": "https://optimumbuilding.ru/remont-potolka",
+                    "price": 50
                 },
                 {
                     "companyName": "Сан Саныч",
                     "priceName": "Обработка потолка грунтовкой глубокого проникновения",
-                    "URL": "https://sanych-msk.ru/services/ceiling/price/"
+                    "URL": "https://sanych-msk.ru/services/ceiling/price/",
+                    "price": 25
                 },
                 {
                     "companyName": "ДМБ",
                     "priceName": "Грунтовка потолков (один раз)",
-                    "URL": "https://remont-dmb.ru/price/prajs-list-na-uslugi-3/"
+                    "URL": "https://remont-dmb.ru/price/prajs-list-na-uslugi-3/",
+                    "price": 18
                 }
             ]
         }
@@ -37,22 +41,26 @@
                 {
                     "companyName": "Ремонт-отделка-м.ру",
                     "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "http://www.remont-otdelka-m.ru/prays_list_potolki.php"
+                    "URL": "http://www.remont-otdelka-m.ru/prays_list_potolki.php",
+                    "price": 22
                 },
                 {
                     "companyName": "RemontProfi",
                     "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "https://www.remontprofi.ru/ceny-na-uslugi/otdelka-potolkov/"
+                    "URL": "https://www.remontprofi.ru/ceny-na-uslugi/otdelka-potolkov/",
+                    "price": 21
                 },
                 {
                     "companyName": "АКОНЕЛ",
                     "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "https://akonel.ru/price/ceilings"
+                    "URL": "https://akonel.ru/price/ceilings",
+                    "price": 28
                 },
                 {
                     "companyName": "ЛюксЭлитСтрой",
                     "priceName": "Грунтовка торцевых элементов потолка по периметру изгиба после каждого слоя шпатлевки",
-                    "URL": "https://luxelitstroy.ru/price/edinichnye_ceny_potolky.php"
+                    "URL": "https://luxelitstroy.ru/price/edinichnye_ceny_potolky.php",
+                    "price": 24
                 }
             ]
         }
@@ -66,22 +74,26 @@
                 {
                     "companyName": "Домашний Мастер",
                     "priceName": "Грунтовка потолка бетоноконтактом (1 слой)",
-                    "URL": "https://domashniy-masterok.ru/price/prays-na-shtukaturno-malyarnye-raboty/"
+                    "URL": "https://domashniy-masterok.ru/price/prays-na-shtukaturno-malyarnye-raboty/",
+                    "price": 30
                 },
                 {
                     "companyName": "СпецДомаСтрой",
                     "priceName": "Грунтовка потолков бетоноконтактом",
-                    "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty"
+                    "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty",
+                    "price": 10
                 },
                 {
                     "companyName": "Академия ремонта",
                     "priceName": "Грунтовка потолков бетоноконтактом",
-                    "URL": "https://remakademiya.ru/ceny-na-remont"
+                    "URL": "https://remakademiya.ru/ceny-na-remont",
+                    "price": 18
                 },
                 {
                     "companyName": "Овит-строй",
                     "priceName": "Грунтовка потолка (Бетоноконтактом)",
-                    "URL": "https://ovit-stroy.ru/tseny-na-remont-kvartir/"
+                    "URL": "https://ovit-stroy.ru/tseny-na-remont-kvartir/",
+                    "price": 40
                 }
             ]
         }
@@ -95,27 +107,32 @@
                 {
                     "companyName": "Домашний Мастер",
                     "priceName": "Удаление обоев (1 слой), шпаклевки с потолков",
-                    "URL": "https://domashniy-masterok.ru/price/prays-na-otdelochnye-raboty/"
+                    "URL": "https://domashniy-masterok.ru/price/prays-na-otdelochnye-raboty/",
+                    "price": 50
                 },
                 {
                     "companyName": "Мир ремонта",
                     "priceName": "Демонтаж обоев с потолка",
-                    "URL": "https://mir-rem.ru/price/"
+                    "URL": "https://mir-rem.ru/price/",
+                    "price": 80
                 },
                 {
                     "companyName": "Инсайд",
                     "priceName": "Удаление обоев (1 слой), шпаклевки со стен",
-                    "URL": "https://www.remontstroyka.ru/tseny/prays-list-na-raboty.php"
+                    "URL": "https://www.remontstroyka.ru/tseny/prays-list-na-raboty.php",
+                    "price": 70
                 },
                 {
                     "companyName": "СпецДомаСтрой",
                     "priceName": "Снятие обоев с потолков (1 слой)",
-                    "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty"
+                    "URL": "http://specdomastroy.ru/ceny_na_otdelochnye_raboty",
+                    "price": 21
                 },
                 {
                     "companyName": "OBIWANKENOBI",
                     "priceName": "Удаление обоев с потолков",
-                    "URL": "http://obiwankenobi.ru/ceny"
+                    "URL": "http://obiwankenobi.ru/ceny",
+                    "price": 29
                 }
             ]
         }
@@ -129,22 +146,26 @@
                 {
                     "companyName": "OBIWANKENOBI",
                     "priceName": "Удаление краски или побелки с потолков",
-                    "URL": "http://obiwankenobi.ru/ceny"
+                    "URL": "http://obiwankenobi.ru/ceny",
+                    "price": 15
                 },
                 {
                     "companyName": "Русский мастеровой",
                     "priceName": "Очистка потолка от водорастворимых красок",
-                    "URL": "http://www.rus-m.com/catalog/demontazhnye_raboty/ochistka_potolka_ot_vodorastvorimykh_krasok/"
+                    "URL": "http://www.rus-m.com/catalog/demontazhnye_raboty/ochistka_potolka_ot_vodorastvorimykh_krasok/",
+                    "price": 18
                 },
                 {
                     "companyName": "Домашний Мастер",
                     "priceName": "Удаление в/э краски с потолка",
-                    "URL": "https://domashniy-masterok.ru/price/prays-na-shtukaturno-malyarnye-raboty/"
+                    "URL": "https://domashniy-masterok.ru/price/prays-na-shtukaturno-malyarnye-raboty/",
+                    "price": 24
                 },
                 {
                     "companyName": "ДомСтрой",
                     "priceName": "Удаление краски или побелки с потолков",
-                    "URL": "https://domstroy-remont.ru/malyarnyie-rabotyi/"
+                    "URL": "https://domstroy-remont.ru/malyarnyie-rabotyi/",
+                    "price": 27
                 }
             ]
         }
